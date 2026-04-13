@@ -2,9 +2,9 @@
   <img width="200" alt="logo" src="src/assets/logo.svg" />
   <br>
    <p>
-    <img src="https://img.shields.io/github/last-commit/DanielVerissimo1/agendamento-petshop?style=for-the-badge&logo=git&logoColor=white&color=6B73FF" alt="Last Commit">
-    <img src="https://img.shields.io/github/languages/top/DanielVerissimo1/agendamento-petshop?style=for-the-badge&color=6B73FF" alt="Top Language">
-    <img src="https://img.shields.io/github/languages/count/DanielVerissimo1/agendamento-petshop?style=for-the-badge&color=000DFF" alt="Languages Count">
+       <img src="https://img.shields.io/github/last-commit/DanielVerissimo1/Rocketseat-HairDay?style=for-the-badge&logo=git&logoColor=white&color=B8952E" alt="Last Commit">
+    <img src="https://img.shields.io/github/languages/top/DanielVerissimo1/Rocketseat-HairDay?style=for-the-badge&color=B8952E" alt="Top Language">
+    <img src="https://img.shields.io/github/languages/count/DanielVerissimo1/Rocketseat-HairDay?style=for-the-badge&color=B8952E" alt="Languages Count">
   </p>
 </h1>
 
