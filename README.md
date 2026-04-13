@@ -15,7 +15,7 @@
 ## 📸 Visualização do Projeto
 
 <p align="center">
-  <img alt="preview" src="https://github.com/user-attachments/assets/81d84517-dae5-4527-a008-6f2db09c206c" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 80%;">
+  <img alt="preview" src="/src/assets/Thumbnail(1).png" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 80%;">
 </p>
 
 ---
